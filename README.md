@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**yu-zaburo/yu-zaburo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yu-zaburo&theme=2077)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yu-zaburo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=yu-zaburo&theme=tokyonight)
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yu-zaburo&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
+
+## My Skills (Programming Languages, Frameworks, and Tools)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-zaburo&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
